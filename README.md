@@ -15,6 +15,13 @@
 Every Project I made with Java, from simple to more complicated ones
  
 ---
+
+## Programs
+
+| | Programs | What is it? |
+|:---:|:---|:---|
+| 1️⃣ | [**Chess Engine**](https://github.com/Vendetaaaa/Chess_Engine) | A simple CLI chess engine |
+| 2️⃣ | [**RayTracing**](https://github.com/Vendetaaaa/RayTracing-Balls) | Renders spheres (diffuse, metal, glass) and a checkered ground plane with shadows |
  
 ## Contributing
  
